@@ -69,7 +69,7 @@ Este projeto tem como objetivo explorar o uso de interfaces de comunicação ser
 - `ssd1306.h/.c`: Biblioteca para comunicação com o display OLED via I2C.
 - `ws2812.pio.h`: Biblioteca para controle dos LEDs endereçáveis WS2812.
 - `font.h`: Fonte customizada para exibição de caracteres no display.
-- `diagram.json': Simualdor WOKWI para testes.
+- `diagram.json`: Simualdor WOKWI para testes.
 
 ## Vídeo de Demonstração
 
